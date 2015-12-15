@@ -93,65 +93,67 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-matchers_2.11-3.1.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="specs2-common_2.11-3.6.4" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="unfiltered_2.11-0.8.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="pact-specification-test_2.11-3.1.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="json4s-native_2.11-3.2.11" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="scala-logging_2.11-3.1.0" level="project" />
     <orderEntry type="library" exported="" name="design-23.1.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="paranamer-2.6" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-model_2.11-3.1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-consumer_2.10-2.4.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="json-lib-2.3-jdk15" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="xml-resolver-1.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="nekohtml-1.9.16" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="unfiltered-netty-server_2.10-0.8.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="netty-codec-4.0.23.Final" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-consumer-junit_2.11-2.4.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="ezmorph-1.0.6" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="netty-common-4.0.23.Final" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="jsonpath_2.11-0.6.4" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="commons-codec-1.9" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="netty-codec-http-4.0.23.Final" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="groovy-all-2.4.4-indy" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="json4s-ast_2.11-3.2.11" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="scalaz-stream_2.11-0.7.2a" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="dispatch-core_2.10-0.11.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-matchers_2.11-2.4.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="unfiltered-util_2.10-0.8.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-beanutils-1.8.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="diffutils-1.3.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="netty-handler-4.0.23.Final" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-collections-3.2.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="scala-parser-combinators_2.11-1.0.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="commons-lang3-3.3.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-lang3-3.3.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="unfiltered-netty_2.11-0.8.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="jsonpath_2.10-0.6.4" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="scala-reflect-2.11.7" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="scalaz-concurrent_2.11-7.1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-model_2.11-2.4.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="http-builder-0.7.1" level="project" />
     <orderEntry type="library" exported="" name="support-v4-23.1.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="json4s-jackson_2.11-3.2.11" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-logging_2.11-2.4.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-consumer_2.11-2.4.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="netty-buffer-4.0.23.Final" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="scalap-2.11.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="jackson-databind-2.3.1" level="project" />
-    <orderEntry type="library" exported="" name="httpclient-android-4.3.5.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="scala-compiler-2.11.7" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="java-semver-0.9.0" level="project" />
     <orderEntry type="library" exported="" name="multidex-1.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="xercesImpl-2.9.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="jackson-core-2.6.3" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="automaton-1.11-8" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="scala-compiler-2.11.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="jackson-core-2.3.1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="specs2-core_2.11-3.6.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="scalaz-effect_2.11-7.1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-logging_2.10-2.4.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="guava-18.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="scala-xml_2.11-1.0.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="scalaz-core_2.11-7.1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-matchers_2.10-2.4.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="dispatch-core_2.11-0.11.1" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-23.1.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="jackson-annotations-2.6.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="unfiltered-netty-server_2.11-0.8.2" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.1.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-consumer-junit_2.11-3.1.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="specs2-matcher_2.11-3.6.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="jackson-annotations-2.3.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-consumer_2.11-3.1.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="json4s-core_2.11-3.2.11" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="unfiltered-netty_2.10-0.8.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="hamcrest-core-1.3" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="scala-library-2.11.7" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="groovy-all-2.4.4" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="slf4j-api-1.7.7" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="async-http-client-1.8.8" level="project" />
     <orderEntry type="library" exported="" name="recyclerview-v7-23.1.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="unfiltered-util_2.11-0.8.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-consumer-specs2_2.11-3.1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-lang-2.4" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="pact-jvm-model_2.10-2.4.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="netty-3.9.0.Final" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="scodec-bits_2.11-1.0.9" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="jackson-databind-2.6.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="unfiltered_2.10-0.8.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="netty-transport-4.0.23.Final" level="project" />
   </component>
 </module>
